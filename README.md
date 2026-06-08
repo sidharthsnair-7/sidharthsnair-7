@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidharth S Nair</h1>
 <h3 align="center">A passionate Electronics and communication engineer</h3>
 
-- 🌱 I’m currently learning **Arduino,microcontrollers,data structure**
+- 🌱 I’m currently learning **Arduino,microcontrollers and data structure**
 
 - 📫 How to reach me **sidharthsnair441@gmail.com**
 
